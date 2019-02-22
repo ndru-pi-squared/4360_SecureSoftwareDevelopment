@@ -10,3 +10,4 @@ Pitt_SDD.docx is the secure design document for Pitt_HotelApp
 Pitt_VulnerabilityExplanation.docx is an explanation of how I would handle 3 of the 
 vulnerabilities in the full authenticated scan of Webgoat
 
+These were a part of our final project in an upper level seminar
