@@ -7,6 +7,6 @@ Pitt_HotelApp.tm7 is a threat model of a proposed web application for a hotel
 
 Pitt_SDD.docx is the secure design document for Pitt_HotelApp
 
-Pitt_VulnerabilityExplanation.docx is an explanation of how I would handle the 
+Pitt_VulnerabilityExplanation.docx is an explanation of how I would handle 3 of the 
 vulnerabilities in the full authenticated scan of Webgoat
 
